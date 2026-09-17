@@ -20,7 +20,8 @@ h2{
     padding: 150px;
     display: flex;
     justify-content: center;
-    align-items: center;   
+    align-items: center;  
+    margin: 100px;
 }
 
 .head img{
